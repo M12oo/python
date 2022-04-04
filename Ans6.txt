@@ -1,0 +1,5 @@
+{1: ['uk', 'Dehradun', 5555, 5555]}
+The highest population is 5555
+The average population is : 5555.000000
+The Maximum Area is : 5555
+The Highest Population Density is : 1.000000
