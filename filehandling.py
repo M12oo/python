@@ -12,9 +12,9 @@ for i in range(0,n):
     l.append(int(input()))
     d[(i+1)]=l
     l=[]
-maximum=0
+maximum=0 #veriable to store the maximum population
 for i in range(0,n):
-    if(d[(i+1)][2]>maximum):
+    if(d[(i+1)][2]>maximum):   
         maximum=d[(i+1)][2]
 
 max_area = 0
